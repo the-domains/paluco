@@ -1,0 +1,28 @@
+name: paluco
+favicon: null
+layout_spectrum: 0.37594938604161143
+typography_spectrum: 0.9088747643399984
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9687679195776582
+  lightness: 0.5009852442890406
+  saturation: 0.6148428372107446
+  rhythmicContrast: 0.06799949333071709
+purpose: []
